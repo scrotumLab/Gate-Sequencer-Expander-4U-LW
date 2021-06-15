@@ -1,8 +1,5 @@
 BOM for SL15X - v2.0
 
-You’ll find the PCB and the panel layout here:
-https://github.com/scrotumLab/Gate-Sequencer-Expander-4U-LW
-
 Through hole components
 
 • 21 x 1N4148
@@ -50,7 +47,8 @@ A few tips:
 
 HEADERS
 All male pins go on the CGS89 board, except the 4 x 2 pins on the Expander board for the RESET option.
-See my photos here if you have doubts on placing the headers.
+See my photos here if you have doubts on placing the headers:
+https://batchas.com/scrotumLab/Scrotum-Lab-SL15X-Expander/Scrotum-Lab-SL15X-Expander.pdf
 
 You’ll notice on my photos that I use 40 pins headers and I take out every second pin on the female header, so it fits the Expander. You don’t need to take every second pin out on the male of course.
 
