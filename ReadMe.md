@@ -1,3 +1,6 @@
+This is an expander board that allows to mount a CGS89 to a frontpanel without wiring.
+
+
 License
 =======
 
