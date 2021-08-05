@@ -12,12 +12,13 @@ Through hole components
 The hole on the panel has a diameter of 12 mm. You can adapt in FrontDesign.
 
 • 1 x rotary switch 1 Pole-10 Position
-The hole on the panel has a diameter of 10 mm. You can adapt in FrontDesign. 
+The hole on the FPD panel layout has a diameter of 10 mm. You can adapt in FrontDesign. 
 Easier to find a 1 Pole-12 Position like: 
 https://www.taydaelectronics.com/rotary-switch-1-pole-12-position-alpha-sr2611f.html
-Warning: it can get tricky to mount the knob on the thread if this kind of switch!
+Warning: it can get tricky to mount the knob on the thread of this kind of switch!
 
-Tayda has these too, but they are shorting: no connection turning the knob between 2 positions. https://www.taydaelectronics.com/rotary-switch-1-pole-10-position-alpha-sr2511-3599.html
+Tayda has these too, but they are shorting, so I don't recommend them: no connection turning the knob between 2 positions: 
+https://www.taydaelectronics.com/rotary-switch-1-pole-10-position-alpha-sr2511-3599.html
 
 • 10 x LEDs
 
@@ -50,19 +51,23 @@ All male pins go on the CGS89 board, except the 4 x 2 pins on the Expander board
 See my photos here if you have doubts on placing the headers:
 https://batchas.com/scrotumLab/Scrotum-Lab-SL15X-Expander/Scrotum-Lab-SL15X-Expander.pdf
 
-You’ll notice on my photos that I use 40 pins headers and I take out every second pin on the female header, so it fits the Expander. You don’t need to take every second pin out on the male of course.
+You’ll notice on my photos that I use 40 pins headers and I pull out every second pin on the female header, so it fits the Expander. 
+You don’t need to take every second pin out on the male of course.
 
-For +VE and GND, I place female headers with 2 pins cause it’s more stable and easier to place a 2 pin female header than a 1 pin female header, but it’s only 1 male pin on the CGS board that goes to these 2 pins. See photo with red arrow.
+For +VE and GND, I place female headers with 2 pins cause it’s more stable and easier to place a 2 pin female header 
+than a 1 pin female header, but it’s only 1 male pin on the CGS board that goes to these 2 pins. See photo with red arrow.
 
 SPACERS
 Easier to place the spacers on the Expander before you mount it to the frontpanel.
 
 ROTARY SWITCH
-I’m giving a small mini-board to solder the switch on it, cause it’s easier to solder the switch pins to a board than to wires. Then it’s up to you how you want to connect this mini-board after to your Expander.
+I’m giving a small mini-board to solder the switch on it, cause it’s easier to solder the switch pins to a board than to wires. 
+Then it’s up to you how you want to connect this mini-board after to your Expander.
 
 PANEL
-I supply here the panel layout made in FrontDesign as open source project. FrontDesing is the tool I use to order aluminium frontpanels from Schaeffer AG in Germany.
-The price I pay for one panel is:
+I supply here the panel layout made in FrontDesign as open source project. FrontDesing is the tool I use to order aluminium 
+frontpanels from Schaeffer AG in Germany.
+The price I paid for one panel in march 2021 was:
 51.50 EUR for the panel. Drilling & printing.
 Shipping (to France) is 8.50 EUR
 VAT is 19%
